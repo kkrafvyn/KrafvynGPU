@@ -1,4 +1,6 @@
 # KrafGPU-X1 — Full Project Documentation
+> **Status note:** This document describes an experimental RTL architecture and its intended scale. Process, throughput, bandwidth, power, packaging and display specifications are design targets; they are not measured hardware results. Read the [repository overview](README.md) for verification scope and limitations. Historical compilation claims here do not establish complete functional, synthesis or silicon validation.
+
 ## Krafvyn Tech / Don
 ### Version: RTL v2 (Enhanced) · July 2026
 
